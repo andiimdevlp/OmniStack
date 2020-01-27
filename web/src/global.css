@@ -12,8 +12,9 @@ html, body, #root{
 }
 
 body{
-    background: #e5e6f0;
+    background: #E5E6F0;
     -webkit-font-smoothing: antialiased;
+    margin-top: 30px;
 }
 
 body, input, button {
